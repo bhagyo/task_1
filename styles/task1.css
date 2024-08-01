@@ -1,0 +1,27 @@
+/*Body color is minor grey*/
+body{
+    background-color: #F4F4F4;
+}
+
+.circle-asGlass {
+    height: 400px;
+    width: 400px;
+    border-radius: 0 0 200px 200px;
+    background-color: #FFFFFF; /*background should be WHITE*/
+}
+
+.circle-text,
+.header-div,
+.main-div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.position {
+    margin-top: 100px;
+}
+
+.lastLines {
+    font-weight: bold;
+}
